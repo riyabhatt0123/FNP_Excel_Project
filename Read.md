@@ -23,49 +23,49 @@ The analysis helps stakeholders quickly monitor key performance indicators (KPIs
 
 1. Overall Performance
 
-Total Orders: 1000
+- Total Orders: 1000
 
-Total Revenue: ₹3,520,984
+- Total Revenue: ₹3,520,984
 
-Avg. Customer Spend: ₹3,520.98
+- Avg. Customer Spend: ₹3,520.98
 
-Avg. Delivery Time: 5.53 days
+- Avg. Delivery Time: 5.53 days
 
 2. Revenue by Occasion
 
-Highest sales recorded during Anniversaries, Holi, and Raksha Bandhan.
+- Highest sales recorded during Anniversaries, Holi, and Raksha Bandhan.
 
-Lower revenue observed for Diwali and Birthday segments, showing scope for marketing push.
+- Lower revenue observed for Diwali and Birthday segments, showing scope for marketing push.
 
 3. Revenue by Category
 
-Dolores Gift and Aperiam Box are top-performing categories.
+- Dolores Gift and Aperiam Box are top-performing categories.
 
-Velit Set and Nostrum Box show moderate demand.
+- Velit Set and Nostrum Box show moderate demand.
 
 4. Revenue by Day of the Week
 
-Tuesdays and Wednesdays generate the highest revenue.
+- Tuesdays and Wednesdays generate the highest revenue.
 
-Weekends show comparatively lower order volumes.
+- Weekends show comparatively lower order volumes.
 
 5. Revenue by Months
 
-Peaks observed in December, February, and April, aligning with major gifting seasons.
+- Peaks observed in December, February, and April, aligning with major gifting seasons.
 
-Lower performance in mid-year months like June and September.
+- Lower performance in mid-year months like June and September.
 
 6. Top 5 Products by Revenue
 
-Colors and Soft Toys contribute the maximum share.
+- Colors and Soft Toys contribute the maximum share.
 
-Plants and Mugs contribute least, suggesting improvement opportunities.
+- Plants and Mugs contribute least, suggesting improvement opportunities.
 
 7. Top Cities by Orders
 
-Major demand comes from Dibrugarh, Imphal, Haridwar, and Kavali.
+- Major demand comes from Dibrugarh, Imphal, Haridwar, and Kavali.
 
-Regional demand insights can help optimize logistics and promotions.
+- Regional demand insights can help optimize logistics and promotions.
 
 
 🛠️ Tools & Techniques Used
